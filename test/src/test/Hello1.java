@@ -15,7 +15,7 @@ public class Hello1 {
 		// i = "ÀÌ¼þ¹«";
 		int y;
 		y = 20;
-		System.out.prinln(y);
+		System.out.println(y);
 		// TODO Auto-generated method stub
 
 	}
